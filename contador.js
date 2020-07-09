@@ -59,7 +59,7 @@ function createElement(tag, classe) {
 }
 
 function Show(array) {
-    const tableInfo = ["Ranking" ,"Quantidade", "word"]
+    const tableInfo = ["Ranking" ,"Amount", "Word"]
     clearResults()
 
     const main = document.querySelector("main")
